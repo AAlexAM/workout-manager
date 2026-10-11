@@ -13,7 +13,13 @@ A small Java / JavaFX desktop app to build a weekly training program and analyze
   - sets per exercise
 - Save / load programs as JSON files
 
-## Quick start
+## Download (Windows)
+
+Grab `WorkoutManager.zip` from the [Releases](../../releases) page, unzip it anywhere you can write files (not `Program Files`), and double-click `WorkoutManager.exe`. No Java install needed.
+
+Windows may show a "protected your PC" warning because the app is not signed: click "More info", then "Run anyway".
+
+## Build from source
 
 **Requirements**
 
@@ -60,3 +66,4 @@ You can add your own exercises by appending lines with the same format: `name,mu
 - Body weight is asked at every launch (it is not saved in the JSON, so calories stay up to date)
 - Existing rounds cannot be edited afterwards; only the last round can be removed while adding an exercise
 - Saved programs are written next to the app, as `<program name>.json`
+
