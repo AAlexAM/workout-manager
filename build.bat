@@ -17,7 +17,7 @@ if errorlevel 1 goto error
 jar --create --file build\input\workout-manager.jar -C build\classes .
 copy lib\gson-2.14.0.jar build\input\ >nul
 
-jpackage --type app-image --name WorkoutManager --input build\input --main-jar workout-manager.jar --main-class WorkoutManager.WorkoutManagerApp --module-path "%JAVAFX_JMODS%" --add-modules javafx.controls --app-content exercises.csv --dest build\dist
+jpackage --type app-image --name WorkoutManager --input build\input --main-jar workout-manager.jar --main-class WorkoutManager.WorkoutManagerApp --module-path "%JAVAFX_JMODS%" --add-modules javafx.controls,jdk.unsupported --app-content exercises.csv --dest build\dist
 if errorlevel 1 goto error
 
 echo.
