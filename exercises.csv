@@ -1,0 +1,85 @@
+name,muscleGroup,met
+Bicep Curl,Arms,3.5
+Hammer Curl,Arms,3.5
+Preacher Curl,Arms,3.5
+Skull Crusher,Arms,3.5
+Tricep Extension,Arms,3.5
+Assisted Pull-Up,Back,6.0
+Australian Row,Back,5.0
+Bar Muscle-Up,Back,9.0
+Barbell Row,Back,6.5
+Chest To Bar Pull-Up,Back,8.5
+Chin-Up,Back,8.0
+Close Grip Pull-Up,Back,8.0
+Deadlift,Back,8.5
+Deficit Deadlift,Back,8.5
+Good Morning,Back,5.5
+Lat Pulldown,Back,5.0
+Muscle-Up,Back,9.0
+Neutral Grip Pull-Up,Back,8.0
+Paused Deadlift,Back,8.5
+Pendlay Row,Back,6.5
+Pull-Up,Back,8.0
+Rack Pull,Back,7.5
+Ring Muscle-Up,Back,9.5
+Romanian Deadlift,Back,7.5
+Seated Cable Row,Back,5.0
+Stiff Leg Deadlift,Back,7.5
+Strict Muscle-Up,Back,9.5
+Sumo Deadlift,Back,8.5
+T-Bar Row,Back,6.0
+Trap Bar Deadlift,Back,8.0
+Weighted Chin-Up,Back,8.5
+Weighted Pull-Up,Back,8.5
+Wide Grip Pull-Up,Back,8.5
+Archer Push-Up,Chest,4.5
+Bench Press,Chest,6.0
+Cable Crossover,Chest,4.0
+Chest Fly Machine,Chest,4.0
+Decline Bench Press,Chest,6.0
+Dip,Chest,6.5
+Dumbbell Bench Press,Chest,5.5
+Dumbbell Incline Press,Chest,5.5
+Floor Press,Chest,5.5
+Incline Bench Press,Chest,6.0
+Pause Bench Press,Chest,6.0
+Push-Up,Chest,4.0
+Ring Dip,Chest,7.5
+Spoto Press,Chest,6.0
+Touch And Go Bench Press,Chest,6.0
+Weighted Dip,Chest,7.0
+Wide Grip Bench Press,Chest,6.0
+Ab Wheel Rollout,Core,4.5
+Hanging Leg Raise,Core,4.5
+Hollow Body Hold,Core,3.5
+L-Sit,Core,5.0
+Plank,Core,3.0
+Hip Thrust,Glutes,6.0
+Box Squat,Legs,7.5
+Bulgarian Split Squat,Legs,7.0
+Calf Raise,Legs,3.5
+Front Squat,Legs,8.0
+Goblet Squat,Legs,6.0
+Hack Squat,Legs,6.5
+High Bar Squat,Legs,8.0
+Leg Curl,Legs,4.0
+Leg Extension,Legs,4.0
+Leg Press,Legs,6.0
+Low Bar Squat,Legs,8.0
+Lunge,Legs,6.0
+Pause Squat,Legs,8.0
+Pistol Squat,Legs,7.0
+Squat,Legs,8.0
+Tempo Squat,Legs,8.0
+Zercher Squat,Legs,8.0
+Arnold Press,Shoulders,6.0
+Face Pull,Shoulders,3.5
+Front Raise,Shoulders,3.5
+Handstand Push-Up,Shoulders,7.5
+Lateral Raise,Shoulders,3.5
+Overhead Press,Shoulders,6.0
+Push Press,Shoulders,7.0
+Shrug,Traps,4.0
+Bench Dip,Triceps,4.5
+Close-Grip Bench Press,Triceps,6.0
+Diamond Push-Up,Triceps,4.0

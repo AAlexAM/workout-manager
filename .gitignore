@@ -1,0 +1,11 @@
+# Compiled files
+bin/
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Saved user programs (generated at runtime)
+*.json
