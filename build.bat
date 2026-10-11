@@ -3,8 +3,8 @@ REM Builds a self-contained Windows app (no Java or JavaFX needed to run it).
 REM Run from the project root. Requires JDK 25 and the JavaFX *jmods* (not the SDK jars).
 
 REM === EDIT THESE TWO PATHS ===
-set JAVAFX_LIB=C:\path\to\javafx-sdk-26.0.2\lib
-set JAVAFX_JMODS=C:\path\to\javafx-jmods-26.0.2
+set JAVAFX_LIB=C:\openjfx-26.0.2_windows-x64_bin-sdk\javafx-sdk-26.0.2\lib
+set JAVAFX_JMODS=C:\openjfx-26.0.2_windows-x64_bin-jmods\javafx-jmods-26.0.2
 REM ============================
 
 if exist build rmdir /s /q build
